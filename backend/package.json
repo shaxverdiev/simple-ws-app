@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/ws": "^8.5.3",
+    "typescript": "^4.7.3",
+    "ws": "^8.8.0"
+  },
+  "optionalDependencies": {
+    "utf-8-validate": "^5.0.9"
+  }
+}
